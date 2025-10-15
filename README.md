@@ -25,3 +25,7 @@
 | -----------|
 | https://polinkaisp23.github.io/leto/ |
 
+| гит степик 🩹|
+| -----------|
+| https://docs.google.com/document/d/1P96qrmb1DpOC8Fycq83FBzsgd4S5ttH3beyNsUViqgI/edit?tab=t.0 |
+
