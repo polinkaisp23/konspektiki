@@ -29,3 +29,7 @@
 | -----------|
 | https://docs.google.com/document/d/1P96qrmb1DpOC8Fycq83FBzsgd4S5ttH3beyNsUViqgI/edit?tab=t.0 |
 
+| цифровое производство 😄|
+| -----------|
+| https://docs.google.com/document/d/15C7V9ZU8UV-6Fq3_AwELbjjHOJbRtyPzR2-KJ0TdsJM/edit?tab=t.0 |
+
