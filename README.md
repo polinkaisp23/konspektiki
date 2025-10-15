@@ -1,4 +1,8 @@
 # предметы юлии витальевны
+| ссылка на папку 😄|
+| -----------|
+| https://drive.google.com/drive/folders/1LnzGbYM6v95A-n4kR8nXVnQLO7L0GvoP |
+
 | план на 5 семестр 😄|
 | -----------|
 | https://docs.google.com/document/d/10sgl1pTqj15KhaEOQ-Q_g4OQWNocPCfRKpAJet7Fgow/edit?tab=t.0 |
