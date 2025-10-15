@@ -3,41 +3,25 @@
 | -----------|
 | https://docs.google.com/document/d/10sgl1pTqj15KhaEOQ-Q_g4OQWNocPCfRKpAJet7Fgow/edit?tab=t.0 |
 
-| Умение работать в Adobe Fhotoshop 🌻|
+| разработка программных модулей 🌻|
 | -----------|
-| https://docs.google.com/document/d/14AtusXfDgYP_d7EemESXtyeELjT5mXRalck2grHfefs/edit?tab=t.0 |
+| https://docs.google.com/document/d/1TKCt7ATWubS0QxFKotKx-4RpIi77DwJNTTWghRIlkAA/edit?tab=t.0 |
 
-| Код google colab 🐈‍⬛|
+| системное программирование 🐈‍⬛|
 | -----------|
-| https://drive.google.com/drive/folders/1s4WLYNrm6bCt-0EkgScYJcGEre0RLSV2 |
+| https://docs.google.com/document/d/1IbUtmRooxxck4qJc2dBD65aTEHgM3LAVxfMk3CFcByA/edit?tab=t.0#heading=h.pnvcn3kvqxc3 |
 
-| База данных 🩹|
+| тестирование 🩹|
 | -----------|
-| https://drive.google.com/drive/folders/1FHKW_5qV-Rz7qe1dPHf2fg5ZEeSodsz-|
+| https://docs.google.com/document/d/1YaLkxFkCvyTfU-gPYEqlAOGWGUqUHqfKqKW0cnCGJ54/edit?tab=t.0 |
 
-| Создание тг бота 🥟|
+| численные методы 🥟|
 | -----------|
-| https://colab.research.google.com/drive/1sUxfhphkH8zcZoDsa022c9kuykWrS55S#scrollTo=djLW8jnwF7NX |
-| https://colab.research.google.com/drive/1kgt4oBYmq01RPB5cv6fsgdhvYQI1gnKF|
-| https://colab.research.google.com/drive/1n1xYetGtRpF_vkcAAUwf8Av_pm7xRrmA#scrollTo=taJ36pGbep_0 |
+| https://docs.google.com/document/d/1LPspNNDcPIR05rmaTTRtU6RSCJ6-Iso1cYcAut9-mHc/edit?tab=t.0#heading=h.l7clqm8wqbus - конспект |
+| https://docs.google.com/spreadsheets/d/15BqHV-NHjI89MOw-18CrrQyJeyNJp4615g3GVm4F-qg/edit?gid=0#gid=0 - таблица|
+| http://colab.research.google.com/drive/1syf2OhZA5djGH5oEYOq-smviJDbhISqM - коллаб |
 
-
-| Траектория будущего 🩹|
+| как я провела лето 🩹|
 | -----------|
-| https://drive.google.com/drive/folders/1F0UrlQXmIo3YSj1xaZYuRti9xUeyYFl- |
+| https://polinkaisp23.github.io/leto/ |
 
-| Организация корпоративной сети 🏴|
-| -----------|
-| https://drive.google.com/drive/folders/1QltqzZiksMf6l7y0hRgxg82_9rDgcgdv |
-
-| Работа с другими ОС 🥑|
-| -----------|
-| https://docs.google.com/document/d/1ciRds3MhAaGyv4ssQ4i_9_ZMST239ZvnPD8qGvknNfA/edit?tab=t.0 |
-
-| IT-планета 🫀|
-| -----------|
-| жду результата |
-
-| тг бот для конкурса ✈️ |
-| ----------- |
-| https://drive.google.com/drive/folders/1PJnmlMpFywB7gew5yT0ISmZY0j5hOIr6 |
