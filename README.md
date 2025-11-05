@@ -22,7 +22,7 @@
 | численные методы 🥟|
 | -----------|
 | https://docs.google.com/document/d/1LPspNNDcPIR05rmaTTRtU6RSCJ6-Iso1cYcAut9-mHc/edit?tab=t.0#heading=h.l7clqm8wqbus - конспект |
-| https://docs.google.com/spreadsheets/d/1S6H_azND1GukC9x89GWqhHSB473oR62541HtDxETNEg/edit?gid=937568779#gid=937568779 - таблица|
+| https://docs.google.com/spreadsheets/d/1RThtaoQChGoq2b1ArOU8tMwraA__d-wMip0hQ7EpZ64/edit?gid=1574039208#gid=1574039208 - таблица|
 | https://colab.research.google.com/drive/1CE0H2VnTydAK58nkvA2k2zcgmjlUW6EG - коллаб |
 
 | как я провела лето 🩹|
