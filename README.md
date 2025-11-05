@@ -23,7 +23,7 @@
 | -----------|
 | https://docs.google.com/document/d/1LPspNNDcPIR05rmaTTRtU6RSCJ6-Iso1cYcAut9-mHc/edit?tab=t.0#heading=h.l7clqm8wqbus - конспект |
 | https://docs.google.com/spreadsheets/d/1RThtaoQChGoq2b1ArOU8tMwraA__d-wMip0hQ7EpZ64/edit?gid=1574039208#gid=1574039208 - таблица|
-| https://colab.research.google.com/drive/1CE0H2VnTydAK58nkvA2k2zcgmjlUW6EG - коллаб |
+| https://colab.research.google.com/drive/1_YcKk2glgIKRdiy8oQGNxTLJjJ-_V_Y4 - коллаб |
 
 | как я провела лето 🩹|
 | -----------|
