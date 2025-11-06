@@ -37,3 +37,7 @@
 | -----------|
 | https://docs.google.com/document/d/15C7V9ZU8UV-6Fq3_AwELbjjHOJbRtyPzR2-KJ0TdsJM/edit?tab=t.0 |
 
+| подтверждние мтс 😄|
+| -----------|
+| https://drive.google.com/drive/home |
+
