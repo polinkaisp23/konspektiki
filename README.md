@@ -39,5 +39,5 @@
 
 | подтверждние мтс 😄|
 | -----------|
-| https://drive.google.com/drive/home |
+| https://drive.google.com/drive/folders/1LnzGbYM6v95A-n4kR8nXVnQLO7L0GvoP |
 
