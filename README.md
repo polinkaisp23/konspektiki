@@ -41,3 +41,6 @@
 | -----------|
 | https://drive.google.com/drive/folders/1LnzGbYM6v95A-n4kR8nXVnQLO7L0GvoP |
 
+| план на 6 семестр 😄|
+| -----------|
+| https://docs.google.com/document/d/16_bp9o2kQFfU392CylYKhvN1dQOHXM9YtrQoUdsZbk0/edit?tab=t.0 |
