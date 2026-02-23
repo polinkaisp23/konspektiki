@@ -44,3 +44,7 @@
 | план на 6 семестр 😄|
 | -----------|
 | https://docs.google.com/document/d/16_bp9o2kQFfU392CylYKhvN1dQOHXM9YtrQoUdsZbk0/edit?tab=t.0 |
+
+| видео люди🥟|
+| -----------|
+| https://drive.google.com/drive/u/0/folders/1BThF_8LqVAcYfG_61MOe1EW1hZQpYtSf |
