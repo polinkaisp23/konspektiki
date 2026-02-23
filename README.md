@@ -56,7 +56,6 @@
 | тест валидатора пароля и Конпект паттерн ААА 🐈‍⬛|
 | -----------|
 | https://colab.research.google.com/drive/1B26ja1aGQCd--GStNyNQiQdzpNkxlWPl |
-| -----------|
 | https://docs.google.com/document/d/1ve_vDs8s8O4C30B6kwWbtASIZmMHDIoZxbWzm70fp7k/edit?tab=t.0#heading=h.k5h2mhh9yqhr |
 
 
