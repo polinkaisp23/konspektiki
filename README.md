@@ -48,3 +48,8 @@
 | видео люди🥟|
 | -----------|
 | https://drive.google.com/drive/u/0/folders/1BThF_8LqVAcYfG_61MOe1EW1hZQpYtSf |
+
+| резюме 🌻|
+| -----------|
+| https://docs.google.com/document/d/1XGDIscPND9tMcpKNSmdFRjNPxIyiRbOn/edit |
+
