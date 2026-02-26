@@ -71,6 +71,18 @@
 | -----------|
 | https://drive.google.com/drive/folders/1cEWWg9GmRyKgcwqkNdcEcpKUqUCTuvEm -DRAWIO|
 
+| er 🩹|
+| -----------|
+| https://app.diagrams.net/#G1ne7dnEi7B-Pkl-5k_xuJJhOpTAQRVFcN#%7B%22pageId%22%3A%22iTtlk5aghj9wcg2URXz0%22%7D -DRAWIO|
+| https://docs.google.com/spreadsheets/d/1mo2Omin6r0sU_ssHIc0bzNwKCHYirV0gjhHlVyT3OXA/edit?gid=0#gid=0 - excel|
+
+| численные 🌻|
+| -----------|
+| https://docs.google.com/spreadsheets/d/1UFTXmdY3rBAjid1crFm8MXI58Y49K3gPf4_YYjQjDso/edit?gid=0#gid=0 - система уравнений, логическая регрессия |
+
+
+
+
 
 
 
