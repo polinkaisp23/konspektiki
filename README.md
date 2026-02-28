@@ -75,6 +75,7 @@
 | -----------|
 | https://app.diagrams.net/#G1ne7dnEi7B-Pkl-5k_xuJJhOpTAQRVFcN#%7B%22pageId%22%3A%22iTtlk5aghj9wcg2URXz0%22%7D -DRAWIO|
 | https://docs.google.com/spreadsheets/d/1mo2Omin6r0sU_ssHIc0bzNwKCHYirV0gjhHlVyT3OXA/edit?gid=0#gid=0 - excel|
+| https://docs.google.com/document/d/10-4QixMy-vraTBC7pmrmMQAE2uZFSMT9Fr-DgkU7QfU/edit?tab=t.0#heading=h.9qg8ga65nfnq -конспект|
 
 | численные 🌻|
 | -----------|
