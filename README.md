@@ -81,6 +81,13 @@
 | -----------|
 | https://docs.google.com/spreadsheets/d/1UFTXmdY3rBAjid1crFm8MXI58Y49K3gPf4_YYjQjDso/edit?gid=0#gid=0 - система уравнений, логическая регрессия |
 
+| конспекты без инета 🌻|
+| -----------|
+| https://docs.google.com/document/d/1Gy0pkZ6SL53tl4cNM8UIuNiLdaeh6dfpgNGZu_6AOBU/edit?tab=t.0 - case |
+| https://docs.google.com/document/d/1j-rf-mS_sSQxya2g8dxeDGR96kmUTGHfPBnmwXWNAGk/edit?tab=t.0 - Принципы разработки и эксплуатации автоматизированных информационных систем. |
+
+
+
 
 
 
