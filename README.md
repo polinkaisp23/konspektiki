@@ -86,6 +86,45 @@
 | https://docs.google.com/document/d/1Gy0pkZ6SL53tl4cNM8UIuNiLdaeh6dfpgNGZu_6AOBU/edit?tab=t.0 - case |
 | https://docs.google.com/document/d/1j-rf-mS_sSQxya2g8dxeDGR96kmUTGHfPBnmwXWNAGk/edit?tab=t.0 - Принципы разработки и эксплуатации автоматизированных информационных систем. |
 
+| Фото для биометрии и Код для фото биометрии (фото) 🥀|
+| -----------|
+| https://drive.google.com/file/d/1wCP0ELgtZw-aMbhzkTYq6oidXtiZEiaP/view?usp=drive_link - фото |
+| https://colab.research.google.com/drive/1hxEy-gS7pWagBkNezd1xcGM7GKpVlXp5#scrollTo=LTOXJ-bYKedB - код |
+
+| АПИ теория и АПИ БД 🥀|
+| -----------|
+| https://colab.research.google.com/drive/1uf1zizeWhv9GP_xLGg07QxuD2a2EAW8L - бд |
+| https://docs.google.com/document/d/1pnVRg0M3PkcqlTiVxeMziTwz5LLlpijJGxdTyNb20zM/edit?tab=t.0 - теория |
+
+| сертификаты все Цифровой марафон от СБЕРа,Проект от вк,Курс от Яндекс Cloud, Вендоры,ИТ-планета,Траектория будущего 🩹|
+| -----------|
+| https://drive.google.com/drive/folders/1geC0JFi8tM6gGJLSmahlUwnVGFBtkePu |
+
+| Activity 🌻|
+| -----------|
+| https://drive.google.com/drive/folders/1qghAQleieF7Y8UVe9Wufu3PupGQJeHon |
+
+| Обучение банки и Обучение своей модели 🩹|
+| -----------|
+| https://colab.research.google.com/drive/1iJhJlROzUEPQOBTwLmJvsbzYiyYFqGq4 |
+
+| Конспект главная		Гит главная		Конспект регистрация, авторизация и структура		Гит регистрация, авторизация и структура		Конспект БД		Гит БД		Гит корзина		Гит чек 🩹|
+| -----------|
+| скрины и код фотки|
+
+| Сайт-резюме 😄|
+| -----------|
+| сделать скинуть |
+
+| видео с детьми с работы для практики  😄|
+| -----------|
+| сделать скинуть |
+
+
+
+
+
+
 
 
 
