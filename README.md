@@ -115,7 +115,7 @@
 
 | Сайт-резюме 😄|
 | -----------|
-| https://github.com/polinkaisp23/resumee - https://polinkaisp23.github.io/resumee/ |
+| https://polinkaisp23.github.io/resumeesitik/ |
 
 
 
